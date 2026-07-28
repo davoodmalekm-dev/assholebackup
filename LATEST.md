@@ -1,8 +1,8 @@
-# Hermes Backup — 20260727_125544
+# Hermes Backup — 20260728_125637
 
-**Backup Time:** 2026-07-27 12:55:46 UTC
-**Archive:** hermes-full-backup-20260727_125544.tar.gz
-**Size:** 9.8M
+**Backup Time:** 2026-07-28 12:56:39 UTC
+**Archive:** hermes-full-backup-20260728_125637.tar.gz
+**Size:** 13M
 
 ## Contents
 - `config.yaml` — Main configuration
